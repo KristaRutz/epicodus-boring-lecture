@@ -1,0 +1,14 @@
+h2.intro {
+    color : red;
+ text-align: center;
+}
+
+p.intro {
+    font-style: italic;
+    font-size: 30px;
+}
+img.intro {
+    width: 300px;
+    float: right;
+    height: 300px;
+}
